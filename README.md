@@ -204,7 +204,7 @@ npm run render -- scene.html   # render a composition to mp4
 
 ## Ownership
 
-Internal **CyberG7** project — built and maintained by [@Cyberg7tech](https://github.com/Cyberg7tech).
+Internal **CyberG7** project — built and maintained by [@CyberG7-org](https://github.com/CyberG7-org).
 All rights reserved. Not open for external contributions; issues and questions welcome.
 
 
